@@ -1,5 +1,7 @@
 # 할 일 앱 만들기
 
+### git clone 연습
+
 ## 리액트 프로젝트 세팅
 
 - `npx create-react-app ./`
